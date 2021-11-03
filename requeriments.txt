@@ -1,1 +1,2 @@
-requeriments.txt
+django==3.2.6
+djongo
